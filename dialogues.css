@@ -10,7 +10,7 @@ xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye:
 qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic;opacity:0.9;}
 
 
-xue, qxue, qgy{color:var(--gyeoulc);}
+xue, qxue, qgyeoc{color:var(--gyeoulc);}
 shai, qshai, run, qrun, qak{color:var(--akma);}
 ju, qmun{color:var(--mun);}
 se, ki, qse, qki{color:var(--gaeul);}
