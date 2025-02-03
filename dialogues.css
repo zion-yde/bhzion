@@ -1,0 +1,25 @@
+xue, shai, ju, se, mir, san, ye{font-weight:var(--bold-fw);}
+
+xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before{content:'\201C';}
+
+xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after{content:'\201D';}
+
+xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before, xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after{color:var(--textClr);font-weight:normal;}
+
+qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic;}
+
+
+xue{color:var(--gyeoul);}
+shai{color:var(--akma);}
+ju{color:var(--mun);}
+se{color:var(--gaeul);}
+mir{color:var(--gaeulc);}
+san{color:var(--bom);}
+ye{color:var(--yeo);}
+
+qgy{color:var(--gyeof);}
+qak{color:var(--akmaf);}
+qmun{color:var(--munf);}
+qga{color:var(--gaeulf);}
+qbom{color:var(--bomf);}
+qyeo{color:var(--yeof);}
