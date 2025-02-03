@@ -12,9 +12,9 @@ qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic
 
 xue, qxue, qgyeoc{color:var(--gyeoc);}
 shai, qshai, run, qrun, qak{color:var(--akma);}
-ju, qmun{color:var(--mun);}
+ju, qju, qmun{color:var(--mun);}
 se, ki, qse, qki{color:var(--gaeul);}
-mir, qgac{color:var(--gaeulc);}
-san, qbom{color:var(--bom);}
+mir, qgac, qmir{color:var(--gaeulc);}
+san, qbom, qsan{color:var(--bom);}
 ye, jae, qye, qjae, qyeo{color:var(--yeo);}
 hyeon, qhyeon, qgy{color:var(--gyeoul);}
