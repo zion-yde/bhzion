@@ -1,16 +1,16 @@
-xue, shai, ju, se, mir, san, ye{font-weight:var(--bold-fw);}
-qxue, qshai, qju, qse, qmir, qsan, qye{font-weight:var(--semibold-fw);font-style:italic;}
+xue, shai, ju, se, mir, san, ye, jae, run, ki, hyeon{font-weight:var(--bold-fw);}
+qxue, qshai, qju, qse, qmir, qsan, qye, qjae, qrun, qki, qhyeon{font-weight:var(--semibold-fw);font-style:italic;}
 
-xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before{content:'\201C';}
+xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before, jae::before, run::before, ki::before, hyeon::before{content:'\201C';}
 
-xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after{content:'\201D';}
+xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after, jae::after, run::after, ki::after, hyeon::after{content:'\201D';}
 
-xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before, xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after{color:var(--textClr);font-weight:normal;}
+xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before, xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after, jae::before, run::before, ki::before, hyeon::before, jae::after, run::after, ki::after, hyeon::after{color:var(--textClr);font-weight:normal;}
 
-qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic;}
+qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic;opacity:0.9;}
 
 
-xue{color:var(--gyeoul);}
+xue{color:var(--gyeoulc);}
 shai{color:var(--akma);}
 ju{color:var(--mun);}
 se{color:var(--gaeul);}
@@ -18,10 +18,15 @@ mir{color:var(--gaeulc);}
 san{color:var(--bom);}
 ye{color:var(--yeo);}
 
-qxue, qgy{color:var(--gyeof);}
-qshai, qak{color:var(--akmaf);}
-qju, qmun{color:var(--munf);}
-qse, qga{color:var(--gaeulf);}
-qsan, qbom{color:var(--bomf);}
-qye, qyeo{color:var(--yeof);}
-qmir {color:var(--gaeul);}
+jae{color:var(--yeoreum);}
+run{color:var(--akma);}
+ki{color:var(--bom);}
+hyeon{color:var(--gyeoul);}
+
+qxue, qgy{color:var(--gyeoulc);}
+qshai, qak{color:var(--akma);}
+qju, qmun{color:var(--mun);}
+qse, qga{color:var(--gaeul);}
+qsan, qbom{color:var(--bom);}
+qye, qyeo{color:var(--yeo);}
+qmir {color:var(--gaeulc);}
