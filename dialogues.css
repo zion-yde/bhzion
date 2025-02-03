@@ -1,4 +1,5 @@
 xue, shai, ju, se, mir, san, ye{font-weight:var(--bold-fw);}
+qxue, qshai, qju, qse, qmir, qsan, qye{font-weight:var(--semibold-fw);font-style:italic;}
 
 xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye::before{content:'\201C';}
 
@@ -17,9 +18,10 @@ mir{color:var(--gaeulc);}
 san{color:var(--bom);}
 ye{color:var(--yeo);}
 
-qgy{color:var(--gyeof);}
-qak{color:var(--akmaf);}
-qmun{color:var(--munf);}
-qga{color:var(--gaeulf);}
-qbom{color:var(--bomf);}
-qyeo{color:var(--yeof);}
+qxue, qgy{color:var(--gyeof);}
+qshai, qak{color:var(--akmaf);}
+qju, qmun{color:var(--munf);}
+qse, qga{color:var(--gaeulf);}
+qsan, qbom{color:var(--bomf);}
+qye, qyeo{color:var(--yeof);}
+qmir {color:var(--gaeul);}
