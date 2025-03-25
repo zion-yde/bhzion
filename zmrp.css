@@ -1,0 +1,33 @@
+.zmrpcont{
+    background-color: var(--baseClr3-10);
+    border-radius: var(--radius);
+    padding: 2rem 5rem;
+    margin: 0 2rem;
+}
+
+.zmrphead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+}
+
+.zmicons{display:flex;gap:1rem;}
+.zicons{width:6rem;height:6rem;border-radius:var(--small-radius);}
+
+.zmrpheadr{
+font-family:var(--font3);
+}
+
+.zmrp{
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 1.3rem;
+    background: var(--baseClr-60);
+    border-radius: var(--radius);
+    padding: 2rem 4rem;
+    text-align:justify;
+}
+
+.zmootd{
+font-weight:var(--semibold-fw);
+}
