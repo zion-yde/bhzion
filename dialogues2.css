@@ -5,7 +5,7 @@ xue::before, shai::before, ju::before, se::before, mir::before, san::before, ye:
 xue::after, shai::after, ju::after, se::after, mir::after, san::after, ye::after{display:none !important;}
 
 
-qgy, qak, qmun, qga, qbom, qyeo{font-weight:var(--semibold-fw);font-style:italic;}
+qgy, qak, qmun, qga, qbom, qyeo, qgyf, qakf, qmunf, qgaf, qbomf, qyeof, qgyc, qakc, qmunc, qgac, qbomc, qyeoc{font-weight:var(--semibold-fw);font-style:italic;}
 
 
 xue{color:var(--gyeoul);}
@@ -16,9 +16,23 @@ mir{color:var(--gaeulc);}
 san{color:#f55f5b;}
 ye{color:var(--yeo);}
 
-qgy{color:var(--gyeof);}
-qak{color:var(--akmaf);}
-qmun{color:var(--munf);}
-qga{color:var(--gaeulf);}
-qbom{color:var(--bomf);}
-qyeo{color:var(--yeof);}
+qgy{color:var(--gyeo);}
+qak{color:var(--akma);}
+qmun{color:var(--mun);}
+qga{color:var(--gaeul);}
+qbom{color:var(--bom);}
+qyeo{color:var(--yeo);}
+
+qgyf{color:var(--gyeof);}
+qakf{color:var(--akmaf);}
+qmunf{color:var(--munf);}
+qgaf{color:var(--gaeulf);}
+qbomf{color:var(--bomf);}
+qyeof{color:var(--yeof);}
+
+qgyc{color:var(--gyeoc);}
+qakc{color:var(--akmac);}
+qmunc{color:var(--munc);}
+qgac{color:var(--gaeulc);}
+qbomc{color:var(--bomc);}
+qyeoc{color:var(--yeoc);}
